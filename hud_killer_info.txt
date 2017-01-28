@@ -1,0 +1,5 @@
+[ru]
+HKI_MSG = Вас убил: %s^nУ него осталось: %d HP | %d AP
+
+[en]
+HKI_MSG = You killed: %s^nHe left: %d HP | %d AP
