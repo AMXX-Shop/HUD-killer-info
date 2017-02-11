@@ -1,5 +1,7 @@
 [ru]
 HKI_MSG = Вас убил: %s^nУ него осталось: %d HP | %d AP
+HKI_DMG = Вы нанесли %.f ед. урона
 
 [en]
 HKI_MSG = You killed: %s^nHe left: %d HP | %d AP
+HKI_DMG = You inflicted %.f DMG
